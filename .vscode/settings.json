@@ -7,7 +7,10 @@
                 "detail": "",
                 "description": "Test",
                 "hidden": [
-                    ".vscode/"
+                    ".vscode/",
+                    ".svelte-kit/",
+                    ".github/",
+                    "node_modules/"
                 ]
             },
             {
